@@ -1,0 +1,30 @@
+body {
+    text-align: left;
+    margin-left:30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    }
+
+.headline {
+    text-align: left;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    color: blue;
+    position: relative;
+    top:2%
+}
+
+
+.main-body {
+    color: whitesmoke;
+    font-size: larger;
+    margin-top: 15%;
+}
+
+
+
+
+
+
+
+
